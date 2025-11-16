@@ -117,11 +117,4 @@ assets/images/placeholder.png
 - PHP 7.4+  
 - WordPress 5.0+
 
-## 🤝 Contributing
-
-Pull requests are welcome!
-
-## 📄 License
-
-MIT License.
 
